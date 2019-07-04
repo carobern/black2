@@ -7,11 +7,9 @@ description = "About me and this site"
 
 Hugo is a static site engine written in Go.
 
-{{< figure link="/img/photos/pic3.jpg" >}}
-
 {{< load-photoswipe >}}
 {{< gallery >}}
-{{< figure link="/img/photos/pic1.jpg" caption="Sydney Harbour" >}}
+{{< figure link="/img/photos/Aquaman,2018,Acryl,und,Öl,auf,Leinwand,140x90.jpg" caption="Sydney Harbour" >}}
 {{< figure link="/img/photos/pic2.jpg" caption="Sydney Harbour" >}}
 {{< figure link="/img/photos/pic3.jpg" caption="Sydney Harbour" >}}
 {{< figure link="/img/photos/pic4.jpg" caption="Sydney Harbour" >}}
