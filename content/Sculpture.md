@@ -4,6 +4,7 @@ date = "2014-04-09"
 sidemenu = "true"
 description = "2016-2019"
 +++
+<font size="2">
 <p>
 {{< fluid_img src="/img/Sculpture1/Doublespine,2018,Keramik,50x35x60 (2).jpg" >}}
 Doublespine, 2018, Keramik, 50x35x60cm</p>
@@ -165,3 +166,4 @@ Singlespine, 2018, Keramik, 50x35x25cm</p>
 <p>
 {{< fluid_img src="/img/Sculpture1/.jpg" >}}
 </p>
+</font>

@@ -4,6 +4,8 @@ date = "2014-04-09"
 sidemenu = "true"
 description = "2015-2019"
 +++
+
+<font size="2">
 <p>
 {{< fluid_img src="/img/2018,19/Gong,2019,Mixed,Media,auf,Leinwand,200x160.jpg" >}}
 Gong, 2019, Mixed Media auf Leinwand, 200x160cm</p>
@@ -171,3 +173,4 @@ Zwischen gehen und kommen, Mixed Media auf Leinwand, 200x270cm</p>
 <p>
 {{< fluid_img src="/img/2016,18/Y2A9106.jpg" >}}
 Y2A9106cm</p>
+</font>

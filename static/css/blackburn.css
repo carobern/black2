@@ -2,6 +2,10 @@
   font-family: "Raleway", Helvetica, Arial, sans-serif
 }
 
+.content {
+  font-size: 0.1em;
+}
+
 a {
   color: #3b8bba;
   text-decoration: none;
