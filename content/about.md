@@ -5,7 +5,6 @@ sidemenu = "true"
 description = "About me and this site"
 +++
 
-Hugo is a static site engine written in Go.
 
 {{< load-photoswipe >}}
 {{< gallery >}}
