@@ -23,9 +23,9 @@ paginate = 10
 [menu]
   # Shown in the side menu.
   [[menu.main]]
-    name = "Works"
+    name = "Paco Höller"
     weight = 1
-    identifier = "Works"
+    identifier = "Paco Höller"
     url = "/"
   [[menu.main]]
     name = "Painting"
