@@ -14,19 +14,20 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "A Hugo Theme"
-  brand = "Blackburn"
+  brand = "Paco Höller"
   googleAnalytics = "Your Google Analytics tracking ID"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
 
 [menu]
+
+[[menu.brand]]
+  weight = 1
+  identifier = "Paco Höller"
+  url = "/"
+
   # Shown in the side menu.
-  [[menu.main]]
-    name = "Paco Höller"
-    weight = 1
-    identifier = "Paco Höller"
-    url = "/"
   [[menu.main]]
     name = "Painting"
     weight = 2
