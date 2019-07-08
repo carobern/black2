@@ -38,6 +38,11 @@ paginate = 10
       identifier = "2019"
       url = "/Painting/2019/"
   [[menu.main]]
+    name = "Painting 2019-2015"
+    weight = 2
+    identifier = "Painting 2019-2015"
+    url = "/Painting 2019-2015"
+  [[menu.main]]
     name = "Sculpture"
     weight = 3
     identifier = "Sculpture"
