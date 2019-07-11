@@ -4,7 +4,7 @@ date = "2014-04-09"
 sidemenu = "true"
 description = "2019-2016"
 +++
-<font size="3">
+<font size="4">
 
 <p>
 {{< fluid_img src="/img/Sculpture1/Doublespine,2018,Keramik,50x35x60 (2).jpg" >}}
