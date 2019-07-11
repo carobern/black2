@@ -34,10 +34,6 @@ Bluesbrothers und der heilige Pete, 2018, Acryl und Öl auf Leinwand, 140x120cm<
 Ein Elefant, der kommt und küsst, 2018, Acryl und Öl auf Leinwand, 160x140cm</p>
 
 <p>
-{{< fluid_img src="/img/2018,19/Ein,Riss,im,Herbst,2018,Mixed,Media,auf,Leinwand,120x60.jpg" >}}
-Ein Riss im Herbst, 2018, Mixed Media auf Leinwand, 120x60cm</p>
-
-<p>
 {{< fluid_img src="/img/2018,19/Faceblast,2018,Mixed,Media,auf,Leinwand,190x120.jpg">}}
 Faceblast, 2018, Mixed Media auf Leinwand, 190x120cm</p>
 
@@ -84,6 +80,10 @@ Schatzsuche, 2018, Acryl und Öl auf Leinwand, 160x200cm</p>
 <p>
 {{< fluid_img src="/img/2018,19/tell,me,you,love,me,2018,Mixed,Media,auf,Leinwand,100x60.jpg">}}
 Tell me you love me, 2018, Mixed Media auf Leinwand, 100x60cm</p>
+
+<p>
+{{< fluid_img src="/img/2018,19/Ein,Riss,im,Herbst,2018,Mixed,Media,auf,Leinwand,120x60.jpg" >}}
+Ein Riss im Herbst, 2018, Mixed Media auf Leinwand, 120x60cm</p>
 
 <p>
 {{< fluid_img src="/img/2018,19/Zwei,Sonnen,und,ein,blauer,Mann,2018,Acryl,und,Öl,auf,Leinwand,170x120.jpg">}}
