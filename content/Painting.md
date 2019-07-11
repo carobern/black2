@@ -2,13 +2,24 @@
 title = "Painting"
 date = "2014-04-09"
 sidemenu = "true"
-description = "2019-2015"
 +++
+<center>
+<span style="font-size: 24px; margin: 21px 0;">
+<a href="#2019">2019</a>&nbsp;&nbsp;
+<a href="#2018">2018</a>&nbsp; &nbsp;
+<a href="#2017">2017</a>&nbsp; &nbsp;
+<a href="#2016">2016</a>&nbsp; &nbsp;
+<a href="#2015">2015</a>
+</span></center>
+<font size="3">
 
-<font size="2">
+<h1><a id="2019"></a>2019</h1>
+
 <p>
 {{< fluid_img src="/img/2018,19/Gong,2019,Mixed,Media,auf,Leinwand,200x160.jpg" >}}
 Gong, 2019, Mixed Media auf Leinwand, 200x160cm</p>
+
+<h1><a id="2018"></a>2018</h1>
 
 <p>
 {{< fluid_img src="/img/2018,19/Aquaman,2018,Acryl,und,Öl,auf,Leinwand,140x90.jpg" caption="Aquaman, 2018, Acryl und Öl auf Leinwand, 140x90cm">}}
@@ -78,6 +89,8 @@ Tell me you love me, 2018, Mixed Media auf Leinwand, 100x60cm</p>
 {{< fluid_img src="/img/2018,19/Zwei,Sonnen,und,ein,blauer,Mann,2018,Acryl,und,Öl,auf,Leinwand,170x120.jpg">}}
 Zwei Sonnen und ein blauer Mann, 2018, Acryl und Öl auf Leinwand, 170x120cm</p>
 
+<h1><a id="2017"></a>2017</h1>
+
 <p>
 {{< fluid_img src="/img/2016,18/O.T,Meerjungfrau,No.1,2017,Mixed,Media,auf,Leinwand,180x140.jpg" >}}
 O.T, Meerjungfrau No.1, 2017, Mixed Media auf Leinwand, 180x140cm</p>
@@ -105,6 +118,8 @@ Elefant tank, 2017, Mixed Media auf Leinwand, 160x120cm</p>
 <p>
 {{< fluid_img src="/img/2016,18/Hoodie,man,2017,Mixed,Media,auf,Leinwand,180x140.jpg" >}}
 Hoodie man, 2017, Mixed Media auf Leinwand, 180x140cm</p>
+
+<h1><a id="2016"></a>2016</h1>
 
 <p>
 {{< fluid_img src="/img/2016,18/fk,2016,Mixed,Media,auf,Leinwand,190x170,.jpg" >}}
@@ -145,6 +160,8 @@ Auffangen, 2016, Acryl, Filzstift und Öl auf Leinwand, 150x150cm</p>
 <p>
 {{< fluid_img src="/img/2016,18/Die,Gehängte,2016,Mixed,Media,auf,Leinwand,180x140.jpg" >}}
 Die Gehängte, 2016, Mixed Media auf Leinwand, 180x140cm</p>
+
+<h1><a id="2015"></a>2015</h1>
 
 <p>
 {{< fluid_img src="/img/2016,18/Done!,2015,Acryl,und,Öl,auf,Leinwand,100x70.jpg" >}}

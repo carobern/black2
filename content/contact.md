@@ -5,7 +5,8 @@ sidemenu = "true"
 +++
 
 <br>
+<font size="4">
 
 <center>
 <a href="mailto:paco.hoeller@gmail.com ">paco.hoeller@gmail.com </a>
-</center>
+</center></font>

@@ -4,7 +4,7 @@ date = "2014-04-09"
 sidemenu = "true"
 description = "2019-2016"
 +++
-<font size="2">
+<font size="3">
 
 <p>
 {{< fluid_img src="/img/Sculpture1/Doublespine,2018,Keramik,50x35x60 (2).jpg" >}}
@@ -74,97 +74,4 @@ Singlespine, 2018, Keramik, 50x35x25cm</p>
 {{< fluid_img src="/img/Sculpture1/Singlespine,2018,Keramik,50x35x25 (2).jpg" >}}
 Singlespine, 2018, Keramik, 50x35x25cm</p>
 
-
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
-
-<p>
-{{< fluid_img src="/img/Sculpture1/.jpg" >}}
-</p>
 </font>
